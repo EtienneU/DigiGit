@@ -1,3 +1,6 @@
 Cette ligne a été écrite depuis la branche "branche1"
 
 Ici je modif depuis la branche Master
+
+De même, cette ligne est ajoutée depuis la "branche1"
+
